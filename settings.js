@@ -9,24 +9,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 
-global.ownerlen = "RUBAH AJA MAKE NAMAMU"
-global.owner = ['628nomormu'] 
-global.ownername = "maslentRubahAjaNamamu"
-global.ytname = "YT: lenttobs"
-global.socialm = "IG: vlntncptr"
-global.location = "Indonesia, Jawatimur, Lumajang"
-global.ownernomer = "62xxxxNomormu"
-global.premium = ['628xxnomormu']
-global.botname = 'mzlntNamamu' 
-global.linkz = "https://chat.LINK BOKEP/LINKGC WA"
-global.websitex = "yt mu"
+global.ownerlen = "I Am Yann"
+global.owner = ['62822522851432'] 
+global.ownername = "I Am Yann"
+global.ytname = "YT:"
+global.socialm = "IG:"
+global.location = "Indonesia, JawaBarat, Bandung"
+global.ownernomer = "62822522851432"
+global.premium = ['62822522851432']
+global.botname = 'RyanBotz-V.3' 
+global.linkz = "https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq"
+global.websitex = "-"
 global.botscript = '-'
 global.themeemoji = "😿"
 global.packname = "Sticker By"
 global.author = "Made by"
-global.wm = "Lenttobs"
+global.wm = "RyanBotz-V.3"
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'Piye?!', //ubah aja make bhs indo terserahhh karepmu
